@@ -1,6 +1,6 @@
 package MooseX::amine;
 # ABSTRACT: Examine Yr Moose
-$MooseX::amine::VERSION = '0.5';
+$MooseX::amine::VERSION = '0.6';
 use Moose;
 use Moose::Meta::Class;
 use Moose::Meta::Role;
@@ -388,7 +388,7 @@ MooseX::amine - Examine Yr Moose
 
 =head1 VERSION
 
-version 0.5
+version 0.6
 
 =head1 SYNOPSIS
 

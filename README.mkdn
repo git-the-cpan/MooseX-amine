@@ -4,7 +4,7 @@ MooseX::amine - Examine Yr Moose
 
 # VERSION
 
-version 0.5
+version 0.6
 
 # SYNOPSIS
 
